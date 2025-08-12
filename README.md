@@ -1,2 +1,2 @@
 # inkspireghostwriters-case-study
-Case study: WordPress + Elementor site
+Case study of Inkspire Ghostwriters website built with WordPress and Elementor.
