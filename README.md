@@ -36,7 +36,7 @@ The aim was to build a modern, responsive site with persuasive landing pages, se
 **Homepage**  
 ![Home](assets/home.png)  
 **Service Section**  
-![Service](assets/service.png)  
+![Service](assets/services.png)  
 **Contact Form**  
 ![Contact](assets/mobile.png)
 </details>
