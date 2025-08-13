@@ -1,37 +1,42 @@
-# Inkspire Ghostwriters – Case Study  
+# Inkspire Ghostwriters – Case Study
+A content-driven corporate website for Inkspire Ghostwriters to showcase services and generate leads.
 
-This repository contains the case study of the Inkspire Ghostwriters website project, built with WordPress and Elementor.  
+## 📌 Project Overview
+The aim was to build a modern, responsive site with persuasive landing pages, service details, and integrated lead capture.
 
-## Project Overview  
-The goal was to design and develop a professional, high-conversion website for a ghostwriting and publishing services company. The design emphasizes trust, clarity, and ease of navigation while highlighting services and portfolio. The site was optimized for fast loading, mobile responsiveness, and SEO best practices.  
+## 🛠 Tech Stack
+- **WordPress**
+- Elementor Pro
+- LiteSpeed Cache
+- Contact Form Integration
+  
+## 💼 My Role
+- Layout and section design for services
+- Lead-focused call-to-action placement
+- Mobile optimization
+- On-page SEO setup
 
-## Key Features  
-- Fully responsive and mobile-friendly design  
-- Built using Elementor Pro for full customization flexibility  
-- Service-specific pages with detailed descriptions  
-- Integrated contact forms for lead generation  
-- Optimized images and scripts for speed  
-- Clear call-to-actions (CTAs) on all major pages  
+## 🚀 Key Results
+- Increased inquiry submissions with above-the-fold forms
+- Improved service page clarity and structure
+  
+## ⚡ Challenges & Solutions
+**Challenge:** Low conversion rates from homepage.  
 
-## Tools & Technologies  
-- WordPress  
-- Elementor & Elementor Pro  
-- LiteSpeed Cache  
-- HTML, CSS, JavaScript  
-- SEO optimization tools  
+**Solution:** Reworked hero and CTA structure to direct users quickly to contact forms.
 
-## My Role  
-- Front-end development  
-- Theme customization  
-- Performance optimization  
-- Content layout and formatting  
-- Image optimization  
+## 🔗 Live Project
 
-## Project Link  
-[Live Website](https://inkspireghostwriters.com/)  
+[Visit Inkspire Ghostwriters](https://inkspireghostwriters.com/)
 
-## Screenshots  
+
+## 📷 Screenshots
+<details>
+<summary>📸 View Screens</summary>
+**Homepage**  
 ![Home](assets/home.png)  
-![Services](assets/services.png)  
-![Mobile](assets/mobile.png)  
-
+**Service Section**  
+![Service](assets/service.png)  
+**Contact Form**  
+![Contact](assets/contact.png)
+</details>
