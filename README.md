@@ -38,5 +38,5 @@ The aim was to build a modern, responsive site with persuasive landing pages, se
 **Service Section**  
 ![Service](assets/service.png)  
 **Contact Form**  
-![Contact](assets/contact.png)
+![Contact](assets/mobile.png)
 </details>
