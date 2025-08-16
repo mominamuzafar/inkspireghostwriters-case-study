@@ -30,13 +30,12 @@ The aim was to build a modern, responsive site with persuasive landing pages, se
 [Visit Inkspire Ghostwriters](https://inkspireghostwriters.com/)
 
 
-## 📷 Screenshots
+## 📸 Screenshots
 <details>
-<summary>📸 View Screens</summary>
-**Homepage**  
-![Home](assets/home.png)
-**Services Page**  
-![Services](assets/services.png)  
-**Mobile Contact Form**  
-![Mobile](assets/mobile.png)
+  <summary>📸 View Screens</summary>
+  
+![Home](./assets/home.png)
+![Services](./assets/services.png)
+![Mobile Contact form](./assets/mobile.png)
+
 </details>
